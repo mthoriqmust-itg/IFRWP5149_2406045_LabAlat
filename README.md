@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=IFRWP5149&fontSize=75&fontAlignY=36&animation=fadeIn&desc=Lab%20Alat%20Workspace&descAlignY=58&descSize=26&fontColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%93%9A+Tugas+Praktikum+Pertemuan+4;%F0%9F%8E%A8+Belajar+Draw.io+%26+Pemodelan+Sistem;%E2%9A%99%EF%B8%8F+Analisis+dan+Desain+Berorientasi+Objek;%E2%9C%A8+Rapi%2C+Terstruktur%2C+Terdokumentasi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%93%9A+Tugas+Praktikum+Pertemuan+6;%F0%9F%8E%A8+Belajar+Draw.io+%26+Pemodelan+Sistem;%E2%9A%99%EF%B8%8F+Analisis+dan+Desain+Berorientasi+Objek;%E2%9C%A8+Rapi%2C+Terstruktur%2C+Terdokumentasi" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Selesai-success?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Pertemuan](https://img.shields.io/badge/Pertemuan-4-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Pertemuan](https://img.shields.io/badge/Pertemuan-6-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Tools](https://img.shields.io/badge/Tools-Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Docs-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-![Progress](https://progress-bar.xyz/100/?title=Pertemuan%204&width=400&color=6366F1)
+![Progress](https://progress-bar.xyz/100/?title=Pertemuan%206&width=400&color=6366F1)
 
 </div>
 
@@ -121,13 +121,9 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tiktok.com/@USERNAME"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://wa.me/628XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/mthoriqmust-itg/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://id.linkedin.com/in/muhammad-thoriq-m-703b2a315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@rajalembayung"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
 </div>
 
